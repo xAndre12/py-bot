@@ -4,8 +4,6 @@ import threading
 import math
 import random
 
-# time.sleep(2)
-# print(pyautogui.position())
 pyautogui.moveTo(1129,485,1)
 
 a = True
